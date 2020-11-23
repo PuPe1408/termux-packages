@@ -1,6 +1,6 @@
 name: APT repository cleanup
 
-on:
+oof:
   schedule:
     - cron:  '0 2 * * *'
 
